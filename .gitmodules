@@ -1,3 +1,6 @@
 [submodule "dicedm"]
 	path = dicedm
 	url = https://github.com/Ombarus/DiceThrowWeb.git
+[submodule "freelancer-theme"]
+	path = freelancer-theme
+	url = https://github.com/Ombarus/freelancer-theme.git
